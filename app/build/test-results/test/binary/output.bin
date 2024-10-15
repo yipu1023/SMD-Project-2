@@ -1,0 +1,35 @@
+GlogResult = Round1:P0-1D-2D,P1-2H-3H,P2-1C-2C,P3-1S-2S,Score:3,90,3,3,
+<Round2:P0-2D-4D,P1-3H-12S,P2-1C-2C,P3-1S-2S,Score:6,55,3,3,
+>Round3:P0-2D-11D,P1-3H-12S,P2-1C-2C,P3-1S-2S,Score:80,55,3,3,
+>Round4:P0-2D-11D,P1-3H-12S,P2-1C-2C,P3-1S-2S,Score:80,55,3,3,
+EndGame:80,55,3,3,
+
+Winners:0
+JlogResult = Round1:P0-1H-2H,P1-2D-3D,P2-2C-3C,P3-2S-3S,Score:3,80,70,100,
+:Round2:P0-1H-2H,P1-3D-4D,P2-3C-4C,P3-3S-4S,Score:3,7,7,7,
+?Round3:P0-2H-11H,P1-4D-9D,P2-4C-9C,P3-4S-9S,Score:90,40,30,60,
+BRound4:P0-2H-11H,P1-9D-10D,P2-9C-10C,P3-9S-10S,Score:90,19,19,19,
+EndGame:90,19,19,19,
+
+Winners:0
+FlogResult = Round1:P0-1H-3H,P1-1D-2D,P2-1C-2C,P3-1S-2S,Score:4,3,3,3,
+;Round2:P0-1H-4H,P1-1D-2D,P2-1C-2C,P3-1S-2S,Score:90,3,3,3,
+<Round3:P0-4H-5H,P1-1D-2D,P2-1C-2C,P3-1S-2S,Score:115,3,3,3,
+<Round4:P0-5H-6H,P1-1D-2D,P2-1C-2C,P3-1S-2S,Score:115,3,3,3,
+EndGame:115,3,3,3,
+
+Winners:0
+KlogResult = Round1:P0-2D-3D,P1-2S-3S,P2-1C-2C,P3-2H-10H,Score:80,100,3,12,
+=Round2:P0-3D-4D,P1-3S-4S,P2-1C-2C,P3-10H-11H,Score:7,7,3,21,
+@Round3:P0-4D-9D,P1-4S-7S,P2-2C-8C,P3-10H-11H,Score:40,11,10,21,
+ARound4:P0-9D-10D,P1-7S-8S,P2-8C-9C,P3-10H-11H,Score:19,15,17,21,
+EndGame:19,15,17,21,
+
+Winners:3
+HlogResult = Round1:P0-1H-2H,P1-2S-3S,P2-1C-2C,P3-1D-2D,Score:3,100,3,3,
+=Round2:P0-1H-4H,P1-2S-3S,P2-1C-2C,P3-1D-2D,Score:90,100,3,3,
+;Round3:P0-1H-4H,P1-2S-6S,P2-1C-2C,P3-1D-2D,Score:90,8,3,3,
+<Round4:P0-1H-4H,P1-2S-7H,P2-1C-2C,P3-1D-2D,Score:90,55,3,3,
+EndGame:90,55,3,3,
+
+Winners:0
