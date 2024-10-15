@@ -1,4 +1,7 @@
-package hifive;
+package hifive.util;
+
+import hifive.HiFive;
+import hifive.PropertiesLoader;
 
 import java.util.Properties;
 
