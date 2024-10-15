@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="scores.TestScoring" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-10-15T05:23:58" hostname="RuijiadeMacBook-Pro.local" time="32.683">
+<testsuite name="scores.TestScoring" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-10-15T05:34:06" hostname="DESKTOP-KFLOVRR" time="31.987">
   <properties/>
-  <testcase name="test2WinnerExtension" classname="scores.TestScoring" time="1.804"/>
-  <testcase name="test1WinnerExtension" classname="scores.TestScoring" time="9.906"/>
-  <testcase name="test1WinnerOriginal" classname="scores.TestScoring" time="9.909"/>
-  <testcase name="test0Winner" classname="scores.TestScoring" time="1.195"/>
-  <testcase name="test2WinnerOriginal" classname="scores.TestScoring" time="9.869"/>
+  <testcase name="test2WinnerExtension" classname="scores.TestScoring" time="1.75"/>
+  <testcase name="test1WinnerExtension" classname="scores.TestScoring" time="9.75"/>
+  <testcase name="test1WinnerOriginal" classname="scores.TestScoring" time="9.73"/>
+  <testcase name="test0Winner" classname="scores.TestScoring" time="1.059"/>
+  <testcase name="test2WinnerOriginal" classname="scores.TestScoring" time="9.697"/>
   <system-out><![CDATA[logResult = Round1:P0-1D-2D,P1-2H-3H,P2-1C-2C,P3-1S-2S,Score:3,90,3,3,
 Round2:P0-2D-4D,P1-3H-12S,P2-1C-2C,P3-1S-2S,Score:6,55,3,3,
 Round3:P0-2D-11D,P1-3H-12S,P2-1C-2C,P3-1S-2S,Score:80,55,3,3,
